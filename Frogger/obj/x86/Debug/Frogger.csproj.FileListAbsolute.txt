@@ -1,0 +1,15 @@
+C:\Users\jor\OneDrive\gpa\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.csprojResolveAssemblyReference.cache
+C:\Users\jor\OneDrive\gpa\Frogger\Frogger\Frogger\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jor\OneDrive\gpa\Frogger\Frogger\Frogger\bin\x86\Debug\Content\GameFont.xnb
+C:\Users\jor\OneDrive\gpa\Frogger\Frogger\Frogger\bin\x86\Debug\Content\spr_background.xnb
+C:\Users\jor\OneDrive\gpa\Frogger\Frogger\Frogger\bin\x86\Debug\Content\spr_dozer.xnb
+C:\Users\jor\OneDrive\gpa\Frogger\Frogger\Frogger\bin\x86\Debug\Content\spr_fly.xnb
+C:\Users\jor\OneDrive\gpa\Frogger\Frogger\Frogger\bin\x86\Debug\Content\spr_frog.xnb
+C:\Users\jor\OneDrive\gpa\Frogger\Frogger\Frogger\bin\x86\Debug\Content\spr_racecar.xnb
+C:\Users\jor\OneDrive\gpa\Frogger\Frogger\Frogger\bin\x86\Debug\Content\spr_truck.xnb
+C:\Users\jor\OneDrive\gpa\Frogger\Frogger\Frogger\bin\x86\Debug\Frogger.exe
+C:\Users\jor\OneDrive\gpa\Frogger\Frogger\Frogger\bin\x86\Debug\Frogger.pdb
+C:\Users\jor\OneDrive\gpa\Frogger\Frogger\Frogger\bin\x86\Debug\GameManagement.dll
+C:\Users\jor\OneDrive\gpa\Frogger\Frogger\Frogger\bin\x86\Debug\GameManagement.pdb
+C:\Users\jor\OneDrive\gpa\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.exe
+C:\Users\jor\OneDrive\gpa\Frogger\Frogger\Frogger\obj\x86\Debug\Frogger.pdb
